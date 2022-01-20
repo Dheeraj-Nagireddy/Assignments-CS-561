@@ -7,5 +7,5 @@ app.get('/data/2.5/weather', (req, res) => {
 })
 
 app.listen(port, () => {
-    console.log(`Example app listening at http://localhost:${port}`)
+    console.log(`Example app listening at http://54.174.219.155	:${port}`)
 })
